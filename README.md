@@ -8,6 +8,8 @@ Start coding a react application
 
 <!-- endhide -->
 
+## Este trabajo aunque era en grupo lo he realizado entero yo porque ya lo tenía casi hecho antes de la clase
+
 ## How to start coding?
 
 - Install the packages with `$ npm install`.
